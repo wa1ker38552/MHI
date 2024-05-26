@@ -1,2 +1,2 @@
 # MHI
-Milpitas Hacks I
+Milpitas Hacks I (Book AI)
