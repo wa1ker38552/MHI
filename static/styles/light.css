@@ -1,0 +1,16 @@
+:root {
+    --background: rgb(243, 243, 243);
+    --accent: white;
+    --accent-dark: rgb(224, 224, 224);
+    --text: rgb(68, 68, 68);
+    --primary: dodgerblue;
+    --br: 15px;
+}
+
+.theme-icon {
+    filter: invert(24%) sepia(0%) saturate(0%) hue-rotate(190deg) brightness(98%) contrast(89%);
+}
+
+.bookmark {
+    filter: invert(100%) sepia(0%) saturate(7341%) hue-rotate(62deg) brightness(132%) contrast(76%);
+}

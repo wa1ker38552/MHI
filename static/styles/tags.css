@@ -1,0 +1,78 @@
+
+
+
+
+.tag-nonfiction {
+    background: rgb(255, 131, 131);
+    border-color: rgb(255, 103, 103);
+}
+
+.tag-fiction {
+    background: rgb(255, 126, 94);
+    border-color: rgb(255, 75, 30);
+}
+
+.tag-adventure {
+    background: rgb(255, 190, 165);
+    border-color: rgb(255, 146, 103);
+}
+
+.tag-horror {
+    background: rgb(255, 217, 147);
+    border-color: rgb(255, 197, 88);
+}
+
+.tag-memoir {
+    background: rgb(226, 255, 160);
+    border-color: rgb(209, 255, 103);
+}
+
+.tag-historical_fiction {
+    background: rgb(167, 255, 207);
+    border-color: rgb(88, 255, 163);
+}
+
+.tag-contemporary {
+    background: rgb(127, 255, 127);
+    border-color: rgb(75, 255, 75);
+}
+
+.tag-mystery {
+    background: rgb(136, 207, 255);
+    border-color: rgb(70, 181, 255);
+}
+
+.tag-history {
+    background: rgb(62, 107, 124);
+    border-color: rgb(17, 77, 100);
+}
+
+.tag-science_fiction {
+    background: rgb(150, 165, 255);
+    border-color: rgb(67, 95, 255);
+}
+
+.tag-classics {
+    background: rgb(161, 144, 255);
+    border-color: rgb(95, 67, 255);
+}
+
+.tag-literary_fiction {
+    background: rgb(202, 145, 255);
+    border-color: rgb(164, 67, 255);
+}
+
+.tag-romance {
+    background: rgb(255, 139, 236);
+    border-color: rgb(255, 67, 224);
+}
+
+.tag-dystopian {
+    background: rgb(255, 147, 179);
+    border-color: rgb(255, 67, 123);
+}
+
+.tag-fantasy {
+    background: rgb(148, 82, 102);
+    border-color: rgb(143, 58, 84);
+}
